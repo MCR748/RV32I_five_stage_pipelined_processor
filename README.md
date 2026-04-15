@@ -12,9 +12,9 @@ supporting the RV32I base integer instruction set.
   memory access efficiency
 
 ## Repository Structure
-rtl/          # SystemVerilog RTL source files
-pipeline_drawn-final.jpeg  # Pipeline architecture diagram
-Group-x86-200082E-200164H-200207U.pdf  # Project report
+- rtl/          # SystemVerilog RTL source files
+- pipeline_drawn-final.jpeg  # Pipeline architecture diagram
+- Group-x86-200082E-200164H-200207U.pdf  # Project report
 
 ## Pipeline Architecture
 
